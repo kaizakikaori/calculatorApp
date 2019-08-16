@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-         label.text = ""
+        label.text = ""
     }
     
     //数字ボタン
